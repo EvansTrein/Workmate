@@ -29,4 +29,4 @@ go-cover:
 go-swag:
 	swag init -g cmd/main.go
 
-cmd //c tree "%cd%" //F
+# cmd //c tree "%cd%" //F
